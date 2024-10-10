@@ -4,3 +4,7 @@
 .Ruserdata
 .vscode
 /*.code-workspace
+
+example-data/
+
+*.pyc
